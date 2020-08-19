@@ -1,4 +1,4 @@
-#ACID properties and BASE properties
+# ACID properties and BASE properties
 
 ACID properties:-
 
@@ -13,7 +13,7 @@ Basic Availability
 Soft-state
 Eventual consistency
 
-#paging and segmentation
+# paging and segmentation
 
 Paging:-
 
@@ -27,7 +27,7 @@ Segmentation is a memory management technique in which each job is divided into 
 
 A program segment contains the program's main function, utility functions, data structures, and so on. The operating system maintains a segment map table for every process and a list of free memory blocks along with segment numbers, their size and corresponding memory locations in main memory. For each segment, the table stores the starting address of the segment and the length of the segment. A reference to a memory location includes a value that identifies a segment and an offset.
 
-#OOPS principles
+# OOPS principles
 
 There are 4 major principles that make an language Object Oriented. 
 These are 
@@ -55,7 +55,7 @@ Inheritance:-
 
 Inheritances expresses “is-a” and/or “has-a” relationship between two objects. Using Inheritance, In derived classes we can reuse the code of existing super classes.
 
-#Happen when you write www.google.com in your web browser 
+# Happen when you write www.google.com in your web browser 
 
 browser checks cache; if requested object is in cache and is fresh, skip to #9
 browser asks OS for server's IP address
@@ -70,10 +70,10 @@ browser determines what to do with response (e.g. is it a HTML page, is it an im
 browser renders response, or offers a download dialog for unrecognized types
 
 
-#Which of the following condition is required for a deadlock to be possible
+# Which of the following condition is required for a deadlock to be possible
 a) mutual exclusion
 
-#Which one of the following is the deadlock avoidance algorithm?
+# Which one of the following is the deadlock avoidance algorithm?
 a) banker's algorithm
 
 # To avoid deadlock
